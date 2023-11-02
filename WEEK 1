@@ -1,0 +1,50 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web page</title>
+</head>
+<body>
+     <h1>WORLD OF BIRDS</h1>
+     <br>
+     <hr>
+     <h3><b>ABOUT BIRDS</b></h3>
+     <img src="https://3.bp.blogspot.com/_LDF9z4ZzZHo/TQZNxKf-LzI/AAAAAAAAAio/ypgA50dOA8M/s1600/KPDWHJ_4014.jpg" height="470px" width="600px">
+     <img src="http://4.bp.blogspot.com/-KC-99oN99IU/Txt1PDZ-dLI/AAAAAAAAuwA/BXhiInvEAbw/s1600/aves-pajarillos-de-colores-exoticos-forrest-birds-.jpg" height="470px" width="600px">
+     <img src="https://c.pxhere.com/photos/a5/74/pelicans_australian_pelican_pelican_pelecanus_conspicillatus_australia_nature_bird_sea_birds-1244471.jpg!d" height="470px" width="600px"> 
+    
+     <p>         Birds are vertebrate animals adapted for flight.
+
+        Many can also run, jump, swim, and dive. Some, like penguins, have lost the ability to fly but retained their wings. Birds are found worldwide and in all habitats. The largest is the nine-foot-tall ostrich. The smallest is the two-inch-long bee hummingbird.
+        
+        Everything about the anatomy of a bird reflects its ability to fly. The wings, for example, are shaped to create lift. The leading edge is thicker than the back edge, and they are covered in feathers that narrow to a point. Airplane wings are modeled after bird wings.
+        
+        The bones and muscles of the wing are also highly specialized. The main bone, the humerus, which is similar to the upper arm of a mammal, is hollow instead of solid. It also connects to the bird’s air sac system, which, in turn, connects to its lungs. The powerful flight muscles of the shoulder attach to the keel, a special ridge of bone that runs down the center of the wide sternum, or breastbone. The tail feathers are used for steering.
+        
+        Birds have a unique digestive system that allows them to eat when they can—usually on the fly—and digest later. They use their beaks to grab and swallow food. Even the way a bird reproduces is related to flight. Instead of carrying the extra weight of developing young inside their bodies, they lay eggs and incubate them in a nest.
+        
+        The fossil record shows that birds evolved alongside the dinosaurs during the Jurassic period 160 million years ago. The best known fossil is archaeopteryx, which was about the size of a crow.
+     </p>
+    <hr>
+    <h2>GOVERNMENT PORTALS</h2>
+    <a href="https://bnhsenvis.nic.in/Database/Important-Bird-And-Biodiversity-Areas-In-India_18738.aspx">EIACP PC Resource Partner (RP) on Avian Ecology</a>
+    <br>
+    <a href="https://wii.gov.in/national_wildlife_database">Wildlife Institute Of India</a>
+    <br>
+    <a href="https://www.birdsofindia.org/">Birds Of India</a>
+    <hr>
+   
+    <p><i><b><big>VIRTUAL EXPERIENCE OF BIODIVERSITY OF BIRDS</big></b></i></p>
+    
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/GfO-3Oir-qM?si=6Avj8veWi9TN-T9J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/6R8C8BSdMds?si=VN6OY-X_rdQRu5uq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+     <hr>
+     <h2>LET'S SAVE OUR PLANET SAVE OUR EARTH</h2>
+     
+    
+
+  
+    
+</body>
+</html>
