@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="index.css";
+    <title></title>
+</head>
+<body>
+    <div class="container">
+        <div class="centered">UNIVERSE OF BIRDS</div>
+        <div class="img">
+        <img src="https://i1.wp.com/fribly.com/wp-content/uploads/2013/09/Create-Geometrical-Vector-Bird-in-Adobe-Illustrator.jpg?fit=600%2C408&ssl=1" alt="intro bird" style="width:100%; height: 500px;">
+    </div>
+    </div>
+     
+     <br>
+     
+     <h3 class="about"><b>ABOUT BIRDS</b></h3>
+     <div class="birds">
+     <div class="img1">
+     <img src="https://3.bp.blogspot.com/_LDF9z4ZzZHo/TQZNxKf-LzI/AAAAAAAAAio/ypgA50dOA8M/s1600/KPDWHJ_4014.jpg"  height="470px" width="600px"  >
+    </div>
+    <div class="img2">
+     <img src="http://4.bp.blogspot.com/-KC-99oN99IU/Txt1PDZ-dLI/AAAAAAAAuwA/BXhiInvEAbw/s1600/aves-pajarillos-de-colores-exoticos-forrest-birds-.jpg" height="470px" width="600px">
+    </div>
+    <div class="img3">
+     <img src="https://c.pxhere.com/photos/a5/74/pelicans_australian_pelican_pelican_pelecanus_conspicillatus_australia_nature_bird_sea_birds-1244471.jpg!d" height="470px" width="600px"> 
+    </div>
+</div>
+
+     <p class="para">         Birds are vertebrate animals adapted for flight.
+
+        Many can also run, jump, swim, and dive. Some, like penguins, have lost the ability to fly but retained their wings. Birds are found worldwide and in all habitats. The largest is the nine-foot-tall ostrich. The smallest is the two-inch-long bee hummingbird.
+        
+        Everything about the anatomy of a bird reflects its ability to fly. The wings, for example, are shaped to create lift. The leading edge is thicker than the back edge, and they are covered in feathers that narrow to a point. Airplane wings are modeled after bird wings.
+        
+        The bones and muscles of the wing are also highly specialized. The main bone, the humerus, which is similar to the upper arm of a mammal, is hollow instead of solid. It also connects to the bird’s air sac system, which, in turn, connects to its lungs. The powerful flight muscles of the shoulder attach to the keel, a special ridge of bone that runs down the center of the wide sternum, or breastbone. The tail feathers are used for steering.
+        
+        Birds have a unique digestive system that allows them to eat when they can—usually on the fly—and digest later. They use their beaks to grab and swallow food. Even the way a bird reproduces is related to flight. Instead of carrying the extra weight of developing young inside their bodies, they lay eggs and incubate them in a nest.
+        
+        The fossil record shows that birds evolved alongside the dinosaurs during the Jurassic period 160 million years ago. The best known fossil is archaeopteryx, which was about the size of a crow.
+     </p>
+    
+    <h2 class="sites">GOVERNMENT PORTALS</h2>
+    <div class="portal">
+    <a href="https://bnhsenvis.nic.in/Database/Important-Bird-And-Biodiversity-Areas-In-India_18738.aspx">EIACP PC Resource Partner (RP) on Avian Ecology</a>
+    <br>
+    <a href="https://wii.gov.in/national_wildlife_database">Wildlife Institute Of India</a>
+    <br>
+    <a href="https://www.birdsofindia.org/">Birds Of India</a>
+    
+</div>
+<br>
+   <hr >
+   <br>
+    <p class="experience"><i><b><big>VIRTUAL EXPERIENCE OF BIODIVERSITY OF BIRDS</big></b></i></p>
+    <br>
+    <div class="ourplanet">
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/GfO-3Oir-qM?si=6Avj8veWi9TN-T9J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+<br>
+<div class="next">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/6R8C8BSdMds?si=VN6OY-X_rdQRu5uq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+     <hr>
+     <h2 class="end">LET'S SAVE OUR PLANET SAVE OUR EARTH.</h2>
+     
+    
+
+  
+    
+</body>
+</html>
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+  position: relative;
+}
+
+.centered {
+  position: absolute;
+  text-align: center;
+  font-weight: bolder;
+  color: #048ffa;
+   padding-left: 290px;
+}
+
+.img {
+  width:1800px;
+  margin-left: 10px;
+}
+
+.about {
+font-weight: bold;
+color: #ff4498;
+background-color: white;
+font-size: 50px;
+height: 80px;
+margin-left: 30px;
+}
+
+.img1 {
+ display: inline-block;
+  margin-left: 40px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  width:100%
+}
+.img2 {
+  display: inline-block;
+  margin-left: 40px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 100px;
+}
+
+.img3{
+  margin-left: 40px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  display: inline-block;
+}
+
+.img {
+  width: auto;
+}
+.birds {
+  display: inline-block;
+}
+
+.para {
+  background-color:#e9ffd8;
+  color:#557C55;
+  text-decoration: solid;
+  font-weight: bolder;
+  height: 1000px;
+  width:100%;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 20x;
+  margin-right: 40px;
+  border-radius: 20px;
+  font-size: 27px;
+  padding-left: 20px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.sites {
+font-weight: bolder;
+background-color: rgb(167, 230, 123);
+color:#17ca17 ;
+height:100px;
+width: 100%;
+margin-top: 10px;
+margin-left: 20px;
+margin-right: 1600px;
+border-radius: 40px;
+margin-bottom: 10px;
+font-display: center;
+text-align: center;
+padding-top: 20px;
+}
+
+.portal {
+  margin-left: 20px;
+  background-color:#a8f2b5 ;
+  margin-right: 50px;
+  text-align: center;
+  text-size-adjust: space-evenly;
+  height: 100px;
+  border-width: 3px;
+  border-color: rgb(8, 174, 174);
+  border-style:dotted ;
+  font-size: larger;
+  font-style: italic;
+  width: 100%;
+
+}
+.experience {
+  margin-left: 20px;
+  margin-right: 40px;
+  text-align: center;
+  background-color: #B6FFFA;
+  color:#80B3FF;
+  border-radius: 20px;
+  height: 110px;
+  padding-top: 20px;
+  font-size:x-large;
+  width: ;
+  width: 100%;
+}
+
+.ourplanet {
+background-color:#E5D4FF ;
+margin-left: 10px;
+margin-right: 20000px;
+text-align: center;
+border-width: 5px;
+padding-top: 10px;
+padding-bottom: 20px;
+border-radius: 80px;
+width: 100%;
+height: 300px;
+font-size: smaller;
+}
+
+.next {
+  background-color:#E5D4FF ;
+  margin-left: 10px;
+  margin-right: 20000px;
+  border-width: 5px;
+  padding-top: 10px;
+  text-align: center;
+  padding-bottom: 20px;
+  border-radius: 80px;
+  width: 100%;
+  height: 300px;
+}
+
+.end{
+ font-size: 50px; 
+ margin-left: 20px;
+  margin-right: 40px;
+  background-color:#FFEBD8 ;
+  color:#FF8080;
+  width: 100%;
+  height: 300px;
+  text-align: center;
+}
+
+@media only screen and (min-width: 768px) {
+  .centered{
+    text-align: center;
+    font-size: larger;
+  }
+  .img {
+    display: block;
+    width:fit-content;
+    margin-right: 0px;
+  }
+  .img1 {
+    width: fit-content;
+    
+  }
+  .para {
+    height: auto;
+    width: 100%;
+    padding-right: 50px;
+  }
+  .end {
+    height: auto;
+  }
+}
+
+@media only screen and (min-width: 540px) {
+  .centered {
+    font-size: larger;
+  }
+  .img {
+    display: block;
+    width:100%;
+    height: 100%;
+  }
+  .img1 {
+    padding:0px 30px 5px;
+  }
+
+  .img2 {
+    padding:0px 30px 5px;
+    margin-right: 80px;
+  }
+  .img3 {
+    padding:0px 30px 5px;
+  }
+   .ourplanet{
+   font-stretch: normal ;
+   }
+  .para {
+   height: auto;
+  }
+  .end {
+    height: auto;
+  }
+  .centered{
+    text-align: center;
+    padding-left: 270px;
+    font-size: 50px;
+    height: 80px;
+  }
+}
